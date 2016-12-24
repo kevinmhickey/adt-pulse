@@ -1,0 +1,21 @@
+{
+  "name": "adt-pulse",
+  "version": "0.1.0",
+  "description": "View and control your ADT Pulse system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ADT",
+    "Pulse"
+  ],
+  "dependencies": {
+    "cheerio": "latest",
+    "q": "~1.0.1",
+    "request": "latest",
+    "tough-cookie": "~0.12.1"
+  },
+  "author": "Kevin Hickey <kevin@kevinmhickey.com>",
+  "license": "ISC"
+}

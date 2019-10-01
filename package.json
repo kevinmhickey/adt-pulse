@@ -16,7 +16,7 @@
     "cheerio": "latest",
     "q": "~1.0.1",
     "request": "latest",
-    "tough-cookie": "~0.12.1"
+    "tough-cookie": ">=2.3.3"
   },
   "author": "Kevin Hickey <kevin@kevinmhickey.com> (http://kevinmhickey.com)",
   "license": "ISC"
